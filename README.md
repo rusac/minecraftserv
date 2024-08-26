@@ -216,11 +216,12 @@ https://tuxinit.com/host-paper-minecraft-server-in-linux/
 https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm  
 https://docs.oracle.com/en-us/iaas/Content/Quotas/Concepts/resourcequotas.htm  
 
+### PaperMC  
+https://docs.papermc.io/paper/getting-started  
+
 ### Other
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement  
 https://www.reddit.com/r/oraclecloud/  
 https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys  
 
-### PaperMC  
-https://docs.papermc.io/paper/getting-started  
-
+https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison (other cloud options)
